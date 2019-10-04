@@ -10,8 +10,12 @@
 
 function spongebobMeme(sentence) {
     return sentence.split('').map(function (value, index) {
-        return index % 2 === 0 ? value.toUpperCase() : value.toLowerCase();
-
+        if (index % 2 !== 0) {
+            value = value.toLowerCase()
+        } else {
+            value = value.toUpperCase()
+        }
+        return value
     }).join('')
 }
 
