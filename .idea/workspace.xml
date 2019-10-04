@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vowel count.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,11 +46,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vowel count.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello world.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -93,6 +102,7 @@
         <option value="$PROJECT_DIR$/convert to binary.js" />
         <option value="$PROJECT_DIR$/string repeat.js" />
         <option value="$PROJECT_DIR$/vowel count.js" />
+        <option value="$PROJECT_DIR$/hello world.js" />
       </list>
     </option>
   </component>
@@ -169,12 +179,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570222875245</updated>
-      <workItem from="1570222876408" duration="2407000" />
+      <workItem from="1570222876408" duration="2665000" />
     </task>
+    <task id="LOCAL-00001" summary="vowel count">
+      <created>1570225344781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570225344781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello world">
+      <created>1570225513440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570225513440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hello world add">
+      <created>1570225531322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570225531322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="2665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -201,6 +233,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vowel count" />
+    <MESSAGE value="hello world" />
+    <MESSAGE value="hello world add" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vowelOne.js">
@@ -244,6 +282,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
