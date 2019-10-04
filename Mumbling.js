@@ -14,4 +14,4 @@ function mumbl(str) {
     return str1.join('-')
 }
 
-console.log(mumbl('ajdhlakd'))
+console.log(mumbl('ajdhlakd'));

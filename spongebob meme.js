@@ -19,4 +19,4 @@ function spongebobMeme(sentence) {
     }).join('')
 }
 
-console.log(spongebobMeme('privet bob'))
+console.log(spongebobMeme('privet bob'));

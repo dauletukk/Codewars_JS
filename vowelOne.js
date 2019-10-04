@@ -15,4 +15,4 @@ function vowelOne(s){
     return s;
 }
 
-console.log(vowelOne('test new test'))
+console.log(vowelOne('test new test'));

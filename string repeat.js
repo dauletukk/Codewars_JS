@@ -7,7 +7,7 @@ function repeatStr (n, s) {
     return s.repeat(n);
 }
 
-console.log(repeatStr(5, 'test'))
+console.log(repeatStr(5, 'test'));
 
 
 //test
