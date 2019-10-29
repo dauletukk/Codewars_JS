@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array Similar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Difference Of Squares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Invert Values.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata Example Twist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum Triplet Sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Remove Duplicates From The List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Write shortest function to calculate Average number of Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A Needle in the Haystack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abbreviate a Two Word Name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Are the numbers in order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find the missing element between two arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get the mean of an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Remove duplicate words.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort and Star.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Where My Anagrams At.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,68 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array Similar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Difference Of Squares.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Remove Duplicates From The List.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Maximum Triplet Sum.js">
+        <entry file="file://$PROJECT_DIR$/Remove duplicate words.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kata Example Twist.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Invert Values.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="323">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,9 +73,17 @@
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/Array Similar.js" />
         <option value="$PROJECT_DIR$/Difference Of Squares.js" />
-        <option value="$PROJECT_DIR$/Kata Example Twist.js" />
         <option value="$PROJECT_DIR$/Remove Duplicates From The List.js" />
         <option value="$PROJECT_DIR$/Maximum Triplet Sum.js" />
+        <option value="$PROJECT_DIR$/Kata Example Twist.js" />
+        <option value="$PROJECT_DIR$/Where My Anagrams At.js" />
+        <option value="$PROJECT_DIR$/Abbreviate a Two Word Name.js" />
+        <option value="$PROJECT_DIR$/A Needle in the Haystack.js" />
+        <option value="$PROJECT_DIR$/Sort and Star.js" />
+        <option value="$PROJECT_DIR$/Are the numbers in order.js" />
+        <option value="$PROJECT_DIR$/Find the missing element between two arrays.js" />
+        <option value="$PROJECT_DIR$/Get the mean of an array.js" />
+        <option value="$PROJECT_DIR$/Remove duplicate words.js" />
       </list>
     </option>
   </component>
@@ -181,29 +133,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Maximum Triplet Sum.js">
-    <configuration name="Difference Of Squares.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Difference Of Squares.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Remove duplicate words.js">
+    <configuration name="Abbreviate a Two Word Name.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Abbreviate a Two Word Name.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Kata Example Twist.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Kata Example Twist.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Are the numbers in order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Are the numbers in order.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Maximum Triplet Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Maximum Triplet Sum.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Get the mean of an array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Get the mean of an array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Remove Duplicates From The List.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Remove Duplicates From The List.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Remove duplicate words.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Remove duplicate words.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Write shortest function to calculate Average number of Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Write shortest function to calculate Average number of Array.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Where My Anagrams At.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Where My Anagrams At.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Maximum Triplet Sum.js" />
-        <item itemvalue="Node.js.Remove Duplicates From The List.js" />
-        <item itemvalue="Node.js.Kata Example Twist.js" />
-        <item itemvalue="Node.js.Difference Of Squares.js" />
-        <item itemvalue="Node.js.Write shortest function to calculate Average number of Array.js" />
+        <item itemvalue="Node.js.Remove duplicate words.js" />
+        <item itemvalue="Node.js.Get the mean of an array.js" />
+        <item itemvalue="Node.js.Are the numbers in order.js" />
+        <item itemvalue="Node.js.Abbreviate a Two Word Name.js" />
+        <item itemvalue="Node.js.Where My Anagrams At.js" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +178,7 @@
       <workItem from="1571524272637" duration="1231000" />
       <workItem from="1571814537597" duration="1286000" />
       <workItem from="1572130808997" duration="3154000" />
-      <workItem from="1572310365589" duration="1307000" />
+      <workItem from="1572310365589" duration="9000000" />
     </task>
     <task id="LOCAL-00001" summary="vowel count">
       <created>1570225344781</created>
@@ -302,7 +254,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25087000" />
+    <option name="totallyTimeSpent" value="32780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -543,27 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array Similar.js">
+    <entry file="file://$PROJECT_DIR$/Maximum Triplet Sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Difference Of Squares.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Remove Duplicates From The List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -572,28 +507,125 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kata Example Twist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Difference Of Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Where My Anagrams At.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove Duplicates From The List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Similar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Invert Values.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Maximum Triplet Sum.js">
+    <entry file="file://$PROJECT_DIR$/Abbreviate a Two Word Name.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A Needle in the Haystack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort and Star.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Are the numbers in order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Find the missing element between two arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Get the mean of an array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Remove duplicate words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
