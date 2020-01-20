@@ -9,7 +9,7 @@
 function mumbl(str) {
     let str1 = str.split('');
     for (let i = 0; i < str.length; i++) {
-        str1[i] = str[i] + str1[i].repeat(i)
+        str1[i] = str[i].toUpperCase() + str1[i].repeat(i)
     }
     return str1.join('-')
 }

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="new tasks">
-      <change afterPath="$PROJECT_DIR$/Disemvowel Trolls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Get the Middle Character.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Highest and Lowest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/You're a square!.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Beginner Series #3 Sum of Numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complementary DNA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Descending Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exes and Ohs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jaden Casing Strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shortest Word.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square Every Digit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the missing element between two arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/Find the missing element between two arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vowel Count.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vowel Count.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mumbling.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mumbling.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,29 +56,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Highest and Lowest.js">
-    <configuration name="Get the Middle Character.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Get the Middle Character.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Beginner Series #3 Sum of Numbers.js">
+    <configuration name="Beginner Series #3 Sum of Numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Beginner Series #3 Sum of Numbers.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Highest and Lowest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Highest and Lowest.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Descending Order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Descending Order.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Vowel Count.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Vowel Count.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Jaden Casing Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jaden Casing Strings.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="You're a square!.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/You're a square!.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Mumbling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Mumbling.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Shortest Word.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Shortest Word.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Highest and Lowest.js" />
-        <item itemvalue="Node.js.You're a square!.js" />
-        <item itemvalue="Node.js.Get the Middle Character.js" />
-        <item itemvalue="Node.js.Vowel Count.js" />
-        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.Beginner Series #3 Sum of Numbers.js" />
+        <item itemvalue="Node.js.Jaden Casing Strings.js" />
+        <item itemvalue="Node.js.Mumbling.js" />
+        <item itemvalue="Node.js.Descending Order.js" />
+        <item itemvalue="Node.js.Shortest Word.js" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +116,7 @@
       <workItem from="1577220084608" duration="3000" />
       <workItem from="1577224379534" duration="4000" />
       <workItem from="1579509234991" duration="3423000" />
-      <workItem from="1579514554068" duration="600000" />
+      <workItem from="1579514554068" duration="7113000" />
     </task>
     <task id="LOCAL-00001" summary="vowel count">
       <created>1570225344781</created>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570229327458</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new tasks">
+      <created>1579550193867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579550193867</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
