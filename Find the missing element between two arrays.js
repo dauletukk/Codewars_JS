@@ -12,7 +12,7 @@ function findMissing(arr1, arr2) {
     });
     arr2.sort(function (a, b) {
         return a - b
-    })
+    });
     for (let i = 0; i < arr1.length; i++){
         if (arr1[i] !== arr2[i]) {
             return arr1[i]
