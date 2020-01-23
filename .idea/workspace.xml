@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beginner Series #3 Sum of Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complementary DNA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Descending Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exes and Ohs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jaden Casing Strings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shortest Word.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Square Every Digit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Count of positives - sum of negatives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List Filtering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of Multiples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of two lowest positive integers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valid Parentheses.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mumbling.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mumbling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complementary DNA.js" beforeDir="false" afterPath="$PROJECT_DIR$/Complementary DNA.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,29 +54,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Beginner Series #3 Sum of Numbers.js">
-    <configuration name="Beginner Series #3 Sum of Numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Beginner Series #3 Sum of Numbers.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Valid Parentheses.js">
+    <configuration name="Count of positives - sum of negatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Count of positives - sum of negatives.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Descending Order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Descending Order.js" working-dir="$PROJECT_DIR$">
+    <configuration name="List Filtering.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/List Filtering.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Jaden Casing Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Jaden Casing Strings.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Sum of Multiples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sum of Multiples.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Mumbling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Mumbling.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Sum of two lowest positive integers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sum of two lowest positive integers.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Shortest Word.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Shortest Word.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Valid Parentheses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Valid Parentheses.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Beginner Series #3 Sum of Numbers.js" />
-        <item itemvalue="Node.js.Jaden Casing Strings.js" />
-        <item itemvalue="Node.js.Mumbling.js" />
-        <item itemvalue="Node.js.Descending Order.js" />
-        <item itemvalue="Node.js.Shortest Word.js" />
+        <item itemvalue="Node.js.Valid Parentheses.js" />
+        <item itemvalue="Node.js.Sum of Multiples.js" />
+        <item itemvalue="Node.js.Count of positives - sum of negatives.js" />
+        <item itemvalue="Node.js.Sum of two lowest positive integers.js" />
+        <item itemvalue="Node.js.List Filtering.js" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +114,10 @@
       <workItem from="1577220084608" duration="3000" />
       <workItem from="1577224379534" duration="4000" />
       <workItem from="1579509234991" duration="3423000" />
-      <workItem from="1579514554068" duration="7113000" />
+      <workItem from="1579514554068" duration="8795000" />
+      <workItem from="1579673455561" duration="1424000" />
+      <workItem from="1579676470660" duration="3589000" />
+      <workItem from="1579815405673" duration="1875000" />
     </task>
     <task id="LOCAL-00001" summary="vowel count">
       <created>1570225344781</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579550193867</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20 january">
+      <created>1579562200744</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579562200744</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +234,7 @@
     <MESSAGE value="capitalization" />
     <MESSAGE value="opposite" />
     <MESSAGE value="new tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="new tasks" />
+    <MESSAGE value="20 january" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 january" />
   </component>
 </project>
