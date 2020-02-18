@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa92846-55de-4e23-8434-8dfd088db5eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Find the odd int.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,34 +28,29 @@
   </component>
   <component name="ProjectId" id="1TSNQcZgVwsAhkm79Z0VyW5SSWT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Node.js.test.js">
+  <component name="RunManager" selected="Node.js.Find the odd int.js">
     <configuration name="Count of positives - sum of negatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Count of positives - sum of negatives.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Multiples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sum of Multiples.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Find the odd int.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Find the odd int.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Sum of two lowest positive integers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sum of two lowest positive integers.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Sum of Multiples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Sum of Multiples.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Valid Parentheses.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Valid Parentheses.js" working-dir="$PROJECT_DIR$">
@@ -67,11 +61,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Find the odd int.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.Valid Parentheses.js" />
         <item itemvalue="Node.js.Sum of Multiples.js" />
         <item itemvalue="Node.js.Count of positives - sum of negatives.js" />
-        <item itemvalue="Node.js.Sum of two lowest positive integers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +108,9 @@
       <workItem from="1579676470660" duration="3589000" />
       <workItem from="1579815405673" duration="1913000" />
       <workItem from="1579818522915" duration="2743000" />
+      <workItem from="1579907736434" duration="1880000" />
+      <workItem from="1579994436006" duration="622000" />
+      <workItem from="1582058498109" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="vowel count">
       <created>1570225344781</created>
@@ -206,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579818492343</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="24">
+      <created>1579907780176</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579907780176</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +243,13 @@
     <MESSAGE value="new tasks" />
     <MESSAGE value="20 january" />
     <MESSAGE value="23 january" />
-    <option name="LAST_COMMIT_MESSAGE" value="23 january" />
+    <MESSAGE value="24" />
+    <option name="LAST_COMMIT_MESSAGE" value="24" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="56" key="SettingsEditor" timestamp="1582058576459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582058576459" />
   </component>
 </project>
