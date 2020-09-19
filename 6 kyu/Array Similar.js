@@ -9,3 +9,9 @@
 // arraysSimilar(arr1, arr2); // Should equal true
 // arraysSimilar(arr2, arr3); // Should equal false
 // arraysSimilar(arr3, arr4); // Should equal false
+
+const arraysSimilar = (x, y) => {
+    if (x.length !== y.length) return false;
+    y = y.sort();
+    return x.sort().every((e, i) => e === y[i]);
+}
