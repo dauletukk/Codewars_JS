@@ -1,7 +1,6 @@
 function opposite(n) {
-    n = -n;
-    return n;
+    return -n;
 
 }
 
-console.log(opposite(-1));
+console.log(opposite(2));
