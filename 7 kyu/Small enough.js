@@ -9,7 +9,7 @@ function smallEnough(a, limit){
             return false
         }
     }
-    
+
     return true
 
 }

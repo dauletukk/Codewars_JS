@@ -1,7 +1,4 @@
-function toJadenCase(str) {
-    return str.split(' ').map(function (elem, ind){
-        return elem[0].toUpperCase()+elem.substring(1)
-    }).join(' ')
-}
+function removeSmallest(numbers){
+    let minNum = Math.min(...numbers);
 
-console.log(toJadenCase('How can mirrors be real if our eyes real'))
+}
