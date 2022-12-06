@@ -12,6 +12,7 @@
 function abbrevName(name){
 
     name = name.split(' ');
+    console.log(name)
     return name[0][0] +'.' + ' ' + name[1][0] + '.'
 }
 
